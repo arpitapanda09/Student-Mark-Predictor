@@ -235,9 +235,9 @@ Feel free to fork this repository and contribute.
 
 Machine Learning & Data Science Enthusiast
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/arpitapanda09/Student-Mark-Predictor
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/arpita-panda-3a136437a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
